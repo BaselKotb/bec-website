@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { scroll-behavior: smooth; }
+
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  background-color: #FAF7F2;
+  color: #1C1410;
+  font-family: 'Lora', Georgia, serif;
+  margin: 0;
+}
+
+a { color: #7B1C1C; text-decoration: none; }
+a:hover { color: #5a1212; border-bottom: none; }
+
+@media (max-width: 768px) {
+  section[style*="grid-template-columns: 1fr 1fr"],
+  div[style*="grid-template-columns: 1fr 1fr"],
+  div[style*="grid-template-columns:1fr 1fr"] {
+    grid-template-columns: 1fr !important;
+  }
+}

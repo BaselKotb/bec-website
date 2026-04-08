@@ -1,0 +1,184 @@
+{
+  "company": {
+    "name": "Biomedical Engineering Club",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Projects",
+      "href": "product"
+    },
+    {
+      "name": "Goals",
+      "href": "goals"
+    },
+    {
+      "name": "Team",
+      "href": "team"
+    },
+    {
+      "name": "Contact us",
+      "href": "contact"
+    }
+  ],
+  "callToAction": {
+    "text": "Join Our Community",
+    "href": "https://docs.google.com/forms/d/e/1FAIpQLSdJEMXIpcMl0fsVZn-dhFao9V-M6Ux7gBGypZP52esIaqzEwQ/viewform"
+  },
+  "mainHero": {
+    "title": "Concordia",
+    "subtitle": "Biomedical Engineering Club.",
+    "description": "The  Biomedical Engineering Club is dedicated to fostering a community of aspiring biomedical engineers at Concordia University. Our mission is to explore innovative solutions that bridge engineering and healthcare, preparing members for careers in this dynamic field.",
+    "img": "/assets/images/happyTeam.jpeg",
+    "primaryAction": {
+      "text": "Join Our Community",
+      "href": "https://docs.google.com/forms/d/e/1FAIpQLSdJEMXIpcMl0fsVZn-dhFao9V-M6Ux7gBGypZP52esIaqzEwQ/viewform"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:BEC@csu.qc.ca?subject=I would like to collaborate/join!"
+    }
+  },
+  "product": {
+    "title": "Our Projects",
+    "items": [
+      {
+        "title": "AI Dermatology Diagnostic Tool",
+        "description": "A clinical decision-support system designed to assist healthcare professionals in making faster and more accurate preliminary dermatological diagnoses. This project combines a powerful visual analysis CNN with a symptom analysis engine to provide comprehensive, evidence-based differential diagnosis, covering over 320 conditions with CNN trained on 23 common visual classes.",
+        "img": "/assets/images/dermatology.jpg",
+        "link": "https://github.com/Concordia-Biomedical-Engineering-Club/ai-dermatology-tool",
+        "linkText": "View on GitHub"
+      },
+      {
+        "title": "Student Research Opportunities",
+        "description": "Get involved in cutting-edge research projects with faculty mentors. Our club connects students with research opportunities in medical imaging, biosensors, rehabilitation engineering, and computational biology. Build your portfolio while contributing to meaningful healthcare innovations.",
+        "img": "/assets/images/product2.jpg",
+        "link": "mailto:BEC@csu.qc.ca?subject=Research Opportunities",
+        "linkText": "Get Involved"
+      }
+    ]
+  },
+  "features": {
+    "title": "Our Goals ",
+    "subtitle": "Unlocking the Future of Biomedical Engineering!",
+    "description": "At our Biomedical Engineering Club, we strive to foster an environment where innovation meets collaboration. Our mission is to empower members with the skills, resources, and connections necessary to excel in the field of biomedical engineering. Here’s how we aim to achieve our goals:",
+    "items": [
+      {
+        "name": "Education",
+        "description": "Provide resources and workshops to enhance members’ technical skills and knowledge in biomedical engineering.",
+        "icon": "/assets/images/education.png"
+      },
+      {
+        "name": "Collaboration",
+        "description": "Facilitate interdisciplinary teamwork through projects and events, encouraging collaboration between engineering, health sciences, and other related fields.",
+        "icon": "/assets/images/collaboration.png"
+      },
+      {
+        "name": "Networking",
+        "description": "Connect students with industry professionals, alumni, and faculty to build valuable relationships and mentorship opportunities.",
+        "icon": "/assets/images/networking.png"
+      },
+      {
+        "name": "Innovation",
+        "description": "Promote creative thinking and problem-solving through hands-on projects and competitions, encouraging members to develop their own ideas and solutions in the biomedical engineering space.",
+        "icon": "/assets/images/innovation.png"
+      }
+    ],
+    "achievements": [
+      {
+        "number": "50+",
+        "label": "Active Members",
+        "description": "Growing community of passionate students"
+      },
+      {
+        "number": "10+",
+        "label": "Projects Completed",
+        "description": "Real-world healthcare solutions developed"
+      },
+      {
+        "number": "5+",
+        "label": "Industry Partners",
+        "description": "Collaborations with healthcare organizations"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Meet Our Team",
+    "subtitle": "The passionate individuals driving innovation in biomedical engineering",
+    "items": [
+      {
+        "name": "Executive Team",
+        "description": "Our dedicated executive team leads the club's initiatives and coordinates activities.",
+        "features": [
+          "Join our executive team and lead innovation in biomedical engineering",
+          "Help coordinate workshops and project development",
+          "Build valuable leadership experience",
+          "Network with industry professionals"
+        ]
+      },
+      {
+        "name": "Join Our Projects",
+        "description": "Get hands-on experience working on cutting-edge biomedical engineering projects.",
+        "features": [
+          "AI/ML projects in healthcare",
+          "Medical device prototyping",
+          "Data analysis and research",
+          "Community outreach initiatives"
+        ]
+      }
+    ]
+  },
+  "events": {
+    "title": "Upcoming Events & Activities",
+    "subtitle": "Join us for workshops, project showcases, and networking opportunities",
+    "items": [
+      {
+        "name": "Weekly Workshops",
+        "date": "Every Friday 5:00 PM",
+        "description": "Learn new skills in AI, medical device design, and biomedical data analysis.",
+        "location": "EV Building, Concordia University"
+      },
+      {
+        "name": "Project Showcase",
+        "date": "Coming Soon",
+        "description": "Present your projects and see what other members are working on.",
+        "location": "To be announced"
+      },
+      {
+        "name": "Industry Guest Speakers",
+        "date": "Monthly",
+        "description": "Network with professionals from leading biomedical companies and research institutions.",
+        "location": "Hybrid (In-person & Virtual)"
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Contact Information",
+        "href": "mailto:BEC@csu.qc.ca?subject=I would like to collaborate/join!",
+        "content": "Email: BEC@csu.qc.ca"
+      },
+      {
+        "name": "Meeting Times",
+        "href": "https://docs.google.com/forms/d/e/1FAIpQLSdJEMXIpcMl0fsVZn-dhFao9V-M6Ux7gBGypZP52esIaqzEwQ/viewform",
+        "content": "Weekly meetings every TBD. All students welcome!"
+      },
+      {
+        "name": "Get Involved",
+        "href": "https://docs.google.com/forms/d/e/1FAIpQLSdJEMXIpcMl0fsVZn-dhFao9V-M6Ux7gBGypZP52esIaqzEwQ/viewform",
+        "content": "Whether you're interested in AI applications in medicine, medical device design, or healthcare data analysis, our club offers opportunities to learn, contribute, and make a real impact. We welcome students from all engineering disciplines and backgrounds."
+      },
+      {
+        "name": "Partnership Opportunities",
+        "href": "mailto:BEC@csu.qc.ca?subject=Partnership Inquiry",
+        "content": "Industry professionals and healthcare organizations interested in collaborating on student projects or providing mentorship opportunities are encouraged to reach out to us."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/Concordia-Biomedical-Engineering-Club",
+      "instagram": "https://www.instagram.com/bec.club/",
+      "linkedin": "https://www.linkedin.com/company/bio-medical-engineering-club/"
+    }
+  }
+}
