@@ -33,7 +33,7 @@ const Footer = () => (
 
         <div>
           <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: '0.62rem', letterSpacing: '0.18em', textTransform: 'uppercase', color: '#C49A6C', marginBottom: '1rem' }}>Navigate</div>
-          {[['/', 'Home'], ['/projects', 'Projects'], ['/team', 'Team'], ['/contact', 'Contact']].map(([href, label]) => (
+          {([['/', 'Home'], ['/projects', 'Projects'], ['/team', 'Team'], ['/contact', 'Contact']] as [string, string][]).map(([href, label]) => (
             <div key={href} style={{ marginBottom: '0.5rem' }}>
               <Link href={href}>
                 <a style={{ color: '#8a7a6e', textDecoration: 'none', fontSize: '0.88rem', fontFamily: "'Lora', serif" }}>{label}</a>
